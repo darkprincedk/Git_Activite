@@ -1,1 +1,3 @@
 Informations sur le fichier 2.
+
+Modifications du fichier 2 ---> done.
